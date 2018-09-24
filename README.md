@@ -1,4 +1,4 @@
-This is a mock UI built in React to display JSON data. In the future, I would like to display only one cluster's data at a time. I would also like to add buttons or arrows to allow users to click through data for all 150 clusters.
+This is a mock UI built in React to display JSON data. 
 
 My tools:
 node v8.9.1
